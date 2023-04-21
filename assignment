@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/c413157e0a.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="bg-container p-5">
+        <div class="d-flex flex-row">
+            <div class="mt-2">
+                <i class="fa-solid fa-user image"></i>
+                <p class="profile-name mt-2" style="text-align:center">PROFILE</p>
+            </div>
+            <div class="ml-4 mr-0">
+                <h1 class="name">CAROLINE THOMPSON</h1>
+                <p class="designation">ART DIRECTOR</p>
+            </div>
+            <div class="vl"></div>
+            <div class="d-flex flex-column start" style="text-align:left">
+                <p class="profile mb-0">Advertising campaigns are my forte.</p>
+                <p class="profile">I have been in the industry for 6 years.</p>
+                <div>
+                    <p class="profile mb-0">Address: Los Angeles, California</p>
+                    <p class="profile mb-0">Phone: +(87) 834 2934 2344</p>
+                    <p class="profile mb-0">Website: www.carolinethompson.com</p>
+                </div>
+            </div>
+        </div>
+        <hr class="horizontal-line" />
+        <div class="d-flex flex-row mb-0 justify-content-center">
+            <div class="mt-4">
+                <i class="fa-solid fa-briefcase image"></i>
+                <p class="profile-name mt-2" style="text-align:center">WORK</p>
+            </div>
+            <div class="d-flex flex-column">
+                <div class="d-flex flex-row ml-4">
+                    <p class="work-year m-0">2022-2023</p>
+                    <div class="work-details">
+                        <div class="d-flex flex-row justify-content-center">
+                            <p class="work-description mb-2 mr-0">Creative Minds Graphic Design Studio California</p>
+                            <i class="fa-solid fa-circle ml-1 small-circle"></i>
+                            <p class="work-description mb-2 ml-1"> Senior Art Director</p>
+                        </div>
+                        <p class="work-year mt-0">Generating and developing ideas to present to the client</p>
+                    </div>
+                </div>
+                <div class="d-flex flex-row ml-4">
+                    <p class="work-year">2021-2022</p>
+                    <div class="work-details">
+                        <div class="d-flex flex-row">
+                            <p class="work-description mb-2 mr-0">Mega Gaints Publishing and Studio</p>
+                            <i class="fa-solid fa-circle ml-1 small-circle"></i>
+                            <p class="work-description mb-2 ml-1"> Junior Art Directorr</p>
+                        </div>
+                        <p class="work-year mt-0">Working on designs to produce an effective advertising campaign</p>
+                    </div>
+                </div>
+                <div class="d-flex flex-row ml-4">
+                    <p class="work-year">2020-2021</p>
+                    <div class="work-details">
+                        <div class="d-flex flex-row">
+                            <p class="work-description mb-2 mr-0">Big ideas Inc</p>
+                            <i class="fa-solid fa-circle ml-1 small-circle"></i>
+                            <p class="work-description mb-2 ml-1">Assisstant Art Director</p>
+                        </div>
+                        <p class="work-year mt-0">Commissioning specialists such as artists, to work on projects</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <hr class="horizontal-line mb-0" />
+        <div class="d-flex flex-row mb-0 justify-content-center">
+            <div class="mt-4">
+                <i class="fa-solid fa-award image ml-2"></i>
+                <p class="profile-name mt-2 mb-0" style="text-align:center">SKILLS & </p>
+                <p class="profile-name m-0" style="text-align:center">AWARDS</p>
+            </div>
+            <div class="d-flex flex-column mt-3">
+                <div class="d-flex flex-row ml-5 mb-0">
+                    <p class="skill-name">UI/UX </p>
+                    <div class="d-flex flex-row ui-space">
+                        <i class="fa-solid fa-circle ml-2 circle"></i>
+                        <i class="fa-solid fa-circle ml-2 circle"></i>
+                        <i class="fa-solid fa-circle ml-2 circle"></i>
+                    </div>
+                </div>
+                <div class="d-flex flex-row ml-5 mb-0">
+                    <p class="skill-name">Growth Marketing</p>
+                    <div class="d-flex flex-row growth-space">
+                        <i class="fa-solid fa-circle ml-2 circle"></i>
+                        <i class="fa-solid fa-circle ml-2 circle"></i>
+                        <i class="fa-solid fa-circle ml-2 circle"></i>
+                        <i class="fa-solid fa-circle ml-2 circle"></i>
+                        <i class="fa-solid fa-circle ml-2 circle"></i>
+                    </div>
+                </div>
+                <div class="d-flex flex-row ml-5 mb-0">
+                    <p class="skill-name">Typography </p>
+                    <div class="d-flex flex-row typo-space">
+                        <i class="fa-solid fa-circle ml-2 circle"></i>
+                        <i class="fa-solid fa-circle ml-2 circle"></i>
+                    </div>
+                </div>
+                <div class="d-flex flex-row ml-5 mb-0">
+                    <p class="skill-name">Video Production</p>
+                    <div class="d-flex flex-row video-space">
+                        <i class="fa-solid fa-circle ml-2 circle"></i>
+                        <i class="fa-solid fa-circle ml-2 circle"></i>
+                        <i class="fa-solid fa-circle ml-2 circle"></i>
+                        <i class="fa-solid fa-circle ml-2 circle"></i>
+                        <i class="fa-solid fa-circle ml-2 circle"></i>
+                    </div>
+                </div>
+                <div class="d-flex flex-row ml-5 mb-0">
+                    <p class="skill-name">Print Design </p>
+                    <div class="d-flex flex-row print-space">
+                        <i class="fa-solid fa-circle ml-2 circle"></i>
+                        <i class="fa-solid fa-circle ml-2 circle"></i>
+                        <i class="fa-solid fa-circle ml-2 circle"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="vl2 mt-0" style="text-align:left"></div>
+            <div class="d-flex flex-column mt-3">
+                <div class="d-flex flex-row ml-5">
+                    <p class="work-year">2019</p>
+                    <div class="ml-3">
+                        <p class="work-description m-0">Graphic London Award</p>
+                        <p class="work-year">Winning Entry: Poster Design</p>
+                    </div>
+                </div>
+                <div class="d-flex flex-row ml-5">
+                    <p class="work-year">2019</p>
+                    <div class="ml-3">
+                        <p class="work-description m-0">LA Creratives Award</p>
+                        <p class="work-year">Winning Entry: Ad Campaign</p>
+                    </div>
+                </div>
+                <div class="d-flex flex-row ml-5">
+                    <p class="work-year">2019</p>
+                    <div class="ml-3">
+                        <p class="work-description m-0">Sulton Design Awards</p>
+                        <p class="work-year">10 Graphic Desinger</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <hr class="horizontal-line" />
+        <div class="d-flex flex-row mt-4">
+            <div>
+                <i class="fa-solid fa-lightbulb image"></i>
+                <p class="profile-name mt-2" style="text-align:center">INTERESTS</p>
+            </div>
+            <div class="d-flex flex-row interests-spacing">
+                <div>
+                    <i class="fa-solid fa-globe image"></i>
+                    <p class="work-year mt-2" style="text-align:center">Internet</p>
+                </div>
+                <div class="ml-5">
+                    <i class="fa-solid fa-pencil image"></i>
+                    <p class="work-year mt-2" style="text-align:center">Sketching</p>
+                </div>
+                <div class="ml-5">
+                    <i class="fa-solid fa-laptop image"></i>
+                    <p class="work-year mt-2" style="text-align:center">Movies</p>
+                </div>
+                <div class="ml-5">
+                    <i class="fa-solid fa-microphone-lines image"></i>
+                    <p class="work-year mt-2" style="text-align:center">Music</p>
+                </div>
+            </div>
+        </div>
+        <hr class="horizontal-line" />
+        <div class="d-flex flex-row">
+            <div>
+                <i class="fa-solid fa-book image"></i>
+                <p class="profile-name mt-2" style="text-align:center">EDUCATION</p>
+            </div>
+            <div class="d-flex flex-column">
+                <div class="d-flex flex-row ml-4">
+                    <p class="education-year m-0">2016-2020</p>
+                    <div class="work-details">
+                        <div class="d-flex flex-row justify-content-center">
+                            <p class="education-description mb-2">Albama College of design and technology</p>
+                            <i class="fa-solid fa-circle ml-2 small-circle"></i>
+                            <p class="education-description mb-2 ml-1"> Cum Laude</p>
+                        </div>
+                        <p class="education-year mt-0">Bachelor of Fine Arts Major in Advertising</p>
+                    </div>
+                </div>
+                <div class="d-flex flex-row ml-4">
+                    <p class="education-year">2013-2016</p>
+                    <div class="work-details">
+                        <div class="d-flex flex-row justify-content-center">
+                            <p class="education-description mb-2">Helena All Girls Senior High School</p>
+                            <i class="fa-solid fa-circle ml-2 small-circle"></i>
+                            <p class="education-description mb-2 ml-1"> Valedictorian</p>
+                        </div>
+                        <p class="education-year mt-0">President of Art and Design Club</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
